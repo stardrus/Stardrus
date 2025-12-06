@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there 👋, I'm max
 
-<!--
-**stardrus/Stardrus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 Game Developer | 💻 Programmer | 🎨 Pixel Art Enthusiast
 
-Here are some ideas to get you started:
+![Cool Coding GIF](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Skills
+- **Game Dev:** Unity, C#
+- **Web Dev:** HTML, CSS, JavaScript
+- **Tools:** Git, GitHub, VS Code
+
+---
+
+## 🌐 Connect with me
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/yourchannel)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+
+---
+
+## 📊 GitHub Stats
+![Olivia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OliviaXS&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OliviaXS&layout=compact&theme=radical)
+
+---
+
+## ⚡ Fun Fact
+> “Code, Create, Repeat!” 🚀
