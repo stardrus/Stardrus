@@ -2,7 +2,7 @@
 
 🎮 Game Dev | 💻 Coder | 🌸 Anime Lover
 
-![Anime Coding GIF](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
+![Anime Coding GIF]([https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW5hNm12YThwcWZ5YjU3dmUxdG12dWRnd2EyMzg1eGlzdG0zdXNmcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NrbYHPliFi2UerJ6tw/giphy.gif))
 
 ---
 
