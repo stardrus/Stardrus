@@ -1,8 +1,8 @@
-# こんにちは! 👋 I'm Olivia
+# こんにちは! 👋 I'm Max
 
 🎮 Game Dev | 💻 Programmer | 🌸 Anime Enthusiast  
 
-![Anime Coding GIF](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
+![Anime Coding GIF]([https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM25wanJvemlpdXY3em5ib2diamRtM3BuMDVma3JiZXJpY2Qwc3hlbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UC8DbMqXvkpd6/giphy.gif))
 
 ---
 
@@ -41,9 +41,4 @@
 
 ---
 
-### ✨ Pro Tips for Cool Anime GitHub Profile:
-1. **ใช้ GIF หลายตัว** ใส่ทั้งตอน coding และ anime ตัวละครที่ชอบ  
-2. **Theme ของ GitHub stats** ใช้ `tokyonight` / `dracula` / `gruvbox`  
-3. **เพิ่ม badges สีสันสดใส** จาก Shields.io  
-4. **จัด section ให้ชัดเจน**: Skills / Connect / Stats / GIFs / Fun Fact  
 
