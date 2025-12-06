@@ -22,14 +22,12 @@
 ---
 
 ## 📊 GitHub Stats
-![stardrus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=stardrus&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stardrus&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=stardrus&theme=tokyonight)
 
 ---
 
 ## 🌸 Favorite Anime GIFs
-![Anime Girl](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
+![Anime Girl](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm9scWZ2M2h3ZGN4OWVlZmlvdGQ5cTE1eDJ3NGU4aG92dWhsM3plbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aksKSrEEfhgbK/giphy.gif)
 ![Coding Anime](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
 ![Happy Anime](https://media.giphy.com/media/5xaOcLGvzHxDKjufnLW/giphy.gif)
 
