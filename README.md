@@ -2,7 +2,7 @@
 
 🎮 Game Dev | 💻 Programmer | 🌸 Anime Enthusiast  
 
-![Anime Coding GIF]([https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM25wanJvemlpdXY3em5ib2diamRtM3BuMDVma3JiZXJpY2Qwc3hlbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UC8DbMqXvkpd6/giphy.gif))
+![Anime Coding GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHNyYnM4ZW85dmJraHY0aGxpbDNzYmlzeXpqOWZocGdnaXB1ZHYxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8Lc5xmvzRhlLy/giphy.gif)
 
 ---
 
