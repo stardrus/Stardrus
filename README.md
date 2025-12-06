@@ -28,7 +28,7 @@
 
 ## 🌸 Favorite Anime GIFs
 ![Anime Girl](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm9scWZ2M2h3ZGN4OWVlZmlvdGQ5cTE1eDJ3NGU4aG92dWhsM3plbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aksKSrEEfhgbK/giphy.gif)
-![Coding Anime](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
+![Coding Anime](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Z2pkYTFqc2FueDdzZXQ5azFmNmh4eGd6ZnU4c2N3OG14bzY1N2IxMyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/3fNmJ20ErpkjK/giphy.gif)
 ![Happy Anime](https://media.giphy.com/media/5xaOcLGvzHxDKjufnLW/giphy.gif)
 
 ---
