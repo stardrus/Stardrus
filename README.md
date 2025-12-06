@@ -1,8 +1,8 @@
-# Hi there 👋, I'm max
+# こんにちは! 👋 I'm Olivia
 
-🎮 Game Developer | 💻 Programmer | 🎨 Pixel Art Enthusiast
+🎮 Game Dev | 💻 Coder | 🌸 Anime Lover
 
-![Cool Coding GIF](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
+![Anime Coding GIF](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
 
 ---
 
@@ -21,8 +21,14 @@
 ---
 
 ## 📊 GitHub Stats
-![Olivia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OliviaXS&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OliviaXS&layout=compact&theme=radical)
+![Olivia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OliviaXS&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OliviaXS&layout=compact&theme=tokyonight)
+
+---
+
+## 🌸 Favorite Anime GIFs
+![Anime Girl](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
+![Coding Anime](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
 
 ---
 
