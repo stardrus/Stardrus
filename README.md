@@ -1,6 +1,6 @@
 # こんにちは! 👋 I'm Max
 
-🎮 Game Dev | 💻 Programmer | 🌸 Anime Enthusiast  
+🎮 Game Dev | 💻 Programmer | 🌸 HeekuyTed 
 
 ![Anime Coding GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHNyYnM4ZW85dmJraHY0aGxpbDNzYmlzeXpqOWZocGdnaXB1ZHYxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8Lc5xmvzRhlLy/giphy.gif)
 
