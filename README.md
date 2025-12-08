@@ -1,4 +1,4 @@
-# こんにちは! 👋 I'm Max
+สวัสดีครับ ผมแม็ก
 
 🎮 Game Dev | 💻 Programmer | 🌸 Heekuytad 
 
