@@ -1,15 +1,6 @@
-สวัสดีครับ ผมแม็ก
-
-🎮 Game Dev | 💻 Programmer | 🌸 Heekuytad 
 
 ![Anime Coding GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHNyYnM4ZW85dmJraHY0aGxpbDNzYmlzeXpqOWZocGdnaXB1ZHYxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8Lc5xmvzRhlLy/giphy.gif)
 
----
-
-## 🔧 Skills
-- **Game Dev:** Unity, C#
-- **Web Dev:** HTML, CSS, JavaScript
-- **Tools:** Git, GitHub, VS Code
 
 ---
 
