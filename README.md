@@ -17,7 +17,6 @@
 
 ---
 
-## 🌸 Favorite Anime GIFs
 ![Anime Girl](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm9scWZ2M2h3ZGN4OWVlZmlvdGQ5cTE1eDJ3NGU4aG92dWhsM3plbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aksKSrEEfhgbK/giphy.gif)
 
 ---
